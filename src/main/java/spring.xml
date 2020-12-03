@@ -12,7 +12,7 @@
    
 	<!-- <bean id="vehicle" class="com.adil.SpringProject.Bike"></bean> -->
 	
-	<bean id="tire" class="com.adil.SpringProject.Tire">
-		<property name="brand" value="MRF"></property>
-	</bean>
+	<!-- <bean id="tire" class="com.adil.SpringProject.Tire">
+		
+	</bean> -->
 </beans>
